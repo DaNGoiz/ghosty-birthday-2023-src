@@ -1,0 +1,30 @@
+Ghost2023.png
+size:1131,497
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,2,493,675
+rotate:90
+Close Eye L
+bounds:958,158,105,118
+rotate:90
+Close Eye R
+bounds:945,44,113,112
+Close Mouth
+bounds:853,20,61,65
+Earphone Line
+bounds:679,265,450,230
+Left Ear
+bounds:679,18,67,172
+rotate:90
+Open Eye L
+bounds:1078,229,36,34
+Open Eye R
+bounds:1078,198,33,29
+Open Mouth
+bounds:879,99,64,72
+Right Ear
+bounds:679,87,84,198
+rotate:90
+Ring
+bounds:679,173,277,90
